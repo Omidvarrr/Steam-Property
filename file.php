@@ -1,0 +1,1 @@
+I can header_register_callback
